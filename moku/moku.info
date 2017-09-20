@@ -1,0 +1,5 @@
+name = Moku
+description = Moku theme
+package = Core
+version = VERSION
+core = 7.x

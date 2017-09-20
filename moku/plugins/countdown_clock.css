@@ -1,0 +1,32 @@
+#CDT {
+    font-size: 30px;
+    color: #eee;
+    margin: 0px 0 100px;
+    font-weight: bold;
+}
+
+#CDT .number-wrapper {
+    margin: 3px;
+    -moz-box-shadow: 0 5px 8px #000000;
+    /* -webkit-box-shadow: 0 5px 8px #000000; */
+    /* box-shadow: 0 5px 8px #000000; */
+    position: relative;
+}
+
+#CDT .number {
+    padding: 0px 10px;
+    color: #000;
+}
+
+#CDT  .caption {
+    font-size: 12px;
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    color: #000;
+}
+#CDT .number-wrapper {
+    display: inline-block;
+}
